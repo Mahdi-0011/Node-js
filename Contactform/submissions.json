@@ -1,1 +1,8 @@
-{"timestamp":"2025-09-15T09:47:16.623Z","name":"Mahdi","email":"mahdi@gmail.con","message":"testa kontaktformuläret!","id":"30b968df-cd36-4d89-b97a-915e1c5e043f"}
+[
+  {"timestamp":"2025-09-15T09:47:16.623Z","name":"Mahdi","email":"mahdi@gmail.con","message":"testa kontaktformuläret!","id":"30b968df-cd36-4d89-b97a-915e1c5e043f"},
+  {"timestamp":"2025-09-15T09:52:59.580Z","name":"Mehdi","email":"mehdi@gmail.com","message":"testa igen!","id":"4751f125-5269-4693-9ba1-df30d2e5aeb5"},
+  {"timestamp":"2025-09-15T09:54:40.188Z","name":"Kraken","email":"kraken@gmail.com","message":"kraken kommer!","id":"55e63f85-6bed-4267-89e5-a97137cbfb2b"},
+  {"timestamp":"2025-09-15T09:56:22.532Z","name":"monster","email":"monster@gmail.com","message":"kraken är en monster!","id":"0bbc2ece-ae4e-4911-bcb1-b57b384deb12"},
+  {"timestamp":"2025-09-15T11:22:54.629Z","name":"Mo","email":"m@gmail.com","message":"testa meddelande från MO!","id":"58a0c06c-5ac2-4b2f-bc03-0c56e53d9703"}
+]
+
