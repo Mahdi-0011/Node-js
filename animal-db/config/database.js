@@ -10,7 +10,7 @@ export const getConnection = async () => {
             host: "localhost",
             port: 3306,
             user: "root",
-            password: "Sommar24",
+            password: "your password",
             database: "animals_db",
         });
     }
